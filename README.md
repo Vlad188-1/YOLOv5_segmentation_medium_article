@@ -1,1 +1,1 @@
-# YOLOv5_segmentation_meduim_article
+# YOLOv5_segmentation_medium_article
